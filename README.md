@@ -52,7 +52,7 @@ databricks-ecommerce-lakehouse/
 │
 ├── docs/
 │   ├── medallion_architecture.md
-│   └── data_flow.md
+│   └── bronze_data_flow.png
 │
 └── README.md
 
